@@ -45,4 +45,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-techy&show_icons=true&locale=en&layout=compact" alt="ed-techy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ed-techy&" alt="ed-techy" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ed-techy&theme=buefy&mode=weekly" alt="ed-techy" /></p>
