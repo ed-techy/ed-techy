@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h1 align="center">Hi... I'm Eduardo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 <h3 align="center">Mobile Dev Specialist | From Frontend to Backend Excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ed-techy&label=Profile%20views&color=0e75b6&style=flat" alt="ed-techy" /> </p>
@@ -17,9 +17,8 @@
 
 - ⚡ Fun fact: I can't sleep because I love coding.
 
-<h3>🚀 Languages and Tools</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" />  **Languages and Tools:**
 
-<p align="left"> 
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -43,6 +42,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-techy&show_icons=true&locale=en&layout=compact" alt="ed-techy" /></p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
+ 
+[![Eduardo's top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ed-techy&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=ed-techy&theme=buefy&mode=weekly" alt="ed-techy" /></p>
+[![Eduardo's current streak](https://streak-stats.demolab.com/?user=ed-techy&count_private=true&theme=blue-green&title_color=00b3ff)](#)
