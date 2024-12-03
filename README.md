@@ -44,6 +44,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
  
-[![Eduardo's top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ed-techy&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Eduardo's top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ed-techy&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ed-techy&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
 
-[![Eduardo's current streak](https://streak-stats.demolab.com/?user=ed-techy&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Eduardo's current streak](https://streak-stats.demolab.com/?user=ed-techy&count_private=true&theme=blue-green&title_color=00b3ff)](https://streak-stats.demolab.com/?user=ed-techy&count_private=true&theme=blue-green&title_color=00b3ff)
